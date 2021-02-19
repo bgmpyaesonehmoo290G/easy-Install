@@ -2,10 +2,10 @@
 #  
 #       GitTool v1.0 
 #  
-#             GitTool Create By : Ha3MrX 
-#             Youtube Channel : https://www.youtube.com/c/HA-MRX
-#             GitHub : https://github.com/Ha3MrX
-#             website : https://kurdkali.wordpress.com/
+#             GitTool Create By : PyaesoneHmoo 
+#            
+#             GitHub : https://github.com/bgmpyaesonehmoo
+#             TikTok : Pyae Sone Hmoo
 #             Automatic Donwload Tools
 #                                     
 #                                                  
@@ -73,10 +73,10 @@ echo " ╚═════╝ ╚═╝   ╚═╝      ╚═╝    ╚══�
 echo "                                                        ";
 
 echo ""
-echo -e $cyan"    Create by           $white":" $red Ha3MrX  "
-echo -e $cyan"    Youtube Channel     $white":" $red https://www.youtube.com/c/HA-MRX"
-echo -e $cyan"    Github              $white":" $red https://github.com/Ha3MrX"
-echo -e $cyan"    website             $white":" $red https://kurdkali.wordpress.com/"
+echo -e $cyan"    Create by           $white":" $red Pyae Sone Hmoo  "
+echo -e $cyan"    FaceBook     $white":" $red  Ju Ki O"
+echo -e $cyan"    Github              $white":" $red https://github.com/bgmpyaesonehmoo"
+echo -e $cyan"    tiktok             $white":" $red Pyae Sone Hmoo/"
 echo -e $cyan ""
 echo -e $okegreen"   ====================== Tool Lest =======================    ";
         echo
