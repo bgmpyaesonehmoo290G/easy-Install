@@ -74,7 +74,7 @@ echo "                                                        ";
 
 echo ""
 echo -e $cyan"    Create by           $white":" $red Pyae Sone Hmoo  "
-echo -e $cyan"    FaceBook     $white":" $red  Ju Ki O"
+echo -e $cyan"    FaceBook     $white":" $red          Ju Li O"
 echo -e $cyan"    Github              $white":" $red https://github.com/bgmpyaesonehmoo"
 echo -e $cyan"    tiktok             $white":" $red Pyae Sone Hmoo/"
 echo -e $cyan ""
