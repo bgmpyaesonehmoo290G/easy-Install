@@ -61,7 +61,7 @@ function main_menu()
 echo -e $blue ""
 
 echo "            +-+-+-+-+-+-+-+                             ";
-echo "            |G|i|T|T|O|O|L|                             ";
+echo "            |P|y|a|e|s|o|n|e|                             ";
 echo "            +-+-+-+-+-+-+-+                             ";
 echo "                                                        ";
 echo "   ╔═╗──────────╔══╗──────────╔╗╔╗───  ";
