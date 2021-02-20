@@ -1,6 +1,6 @@
 #!/bin/bash
 #  
-#       GitTool v1.0 
+#      easy-Install v1.0 
 #  
 #             GitTool Create By : PyaesoneHmoo 
 #            
