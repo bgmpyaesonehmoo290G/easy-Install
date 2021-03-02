@@ -321,7 +321,7 @@ echo -e $okegreen"   ====================== Tool Lest =======================   
                 read -p "pess any key to return ..."
                 clear
                 ;;
-            q)  echo -e $yellow " Thanks For Using My Tools Good Bye  {Ha3MrX}  !!"
+            q)  echo -e $yellow " Thanks For Using My Tools Good Bye  Min Lol😼🖕  !!"
                 echo
                 exit 0 
                 ;;
